@@ -1,0 +1,3 @@
+hello from b.txt
+
+enjoy working on project
